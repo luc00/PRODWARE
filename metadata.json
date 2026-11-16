@@ -1,0 +1,6 @@
+{
+  "name": "ProdWare — Tecnologia su misura e ProdIntelligence",
+  "description": "Soluzioni software gestionali personalizzate, Chatbot IA su cloud dedicato, servizi B2B e la piattaforma ProdIntelligence prompt-to-software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
